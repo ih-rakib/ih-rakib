@@ -8,9 +8,9 @@
 ### My Stacks
 #### Languages: C | C++ | Python | Javascript
 
-#### Frontend: HTML | CSS | Jquery
+#### Frontend: HTML | CSS | React | Next JS
 
-#### Backend: Python | Pytest
+#### Backend: Python | Node | MongoDB | Express
 
 #### Others: Git | Latex
 
