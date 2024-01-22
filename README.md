@@ -17,8 +17,8 @@
 
 #### Others: Git | Github | Latex
 
-## My Handles
+### My Handles
  [Leetcode](https://leetcode.com/kuhelica/) | [Codeforces](https://codeforces.com/profile/Rakib03)
 
-## Projects
+### Projects
 [Data Structure and Algorithm](https://github.com/ih-rakib/Data-Structure-and-Algorithm)
