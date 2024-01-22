@@ -18,8 +18,3 @@
  [<img src="https://img.shields.io/badge/ih-rakib-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ikramul-hasan-rakib)
  [<img src="https://img.shields.io/badge/ih-rakib-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ih-rakib) 
  [<img src="https://img.shields.io/badge/Rakib03-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Rakib03)
-
-![Profile views](https://gpvc.arturio.dev/ih-rakib)
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ih-rakib&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ih-rakib/github-readme-stats)
