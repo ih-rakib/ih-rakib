@@ -21,5 +21,6 @@
  [Leetcode](https://leetcode.com/kuhelica/) | [Codeforces](https://codeforces.com/profile/Rakib03)
 
 ### Projects
-[Data Structure and Algorithm](https://github.com/ih-rakib/Data-Structure-and-Algorithm)
-Shoemars: [Live Link](https://ih-rakib.github.io/Shoemars/) | [View Code](https://github.com/ih-rakib/Shoemars)
+- [Data Structure and Algorithm](https://github.com/ih-rakib/Data-Structure-and-Algorithm)
+
+- Shoemars: [Live Link](https://ih-rakib.github.io/Shoemars/) | [View Code](https://github.com/ih-rakib/Shoemars)
