@@ -1,6 +1,7 @@
 # Ikramul Hasan Rakib
 
-## Find Me
+## Find Me Here
+- 🌐 [Email](mailto:hasanrakib3590@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ikramul-hasan-rakib)
 - 📱 [WhatsApp](https://wa.me/1857668385)
 - 🐦 [Twitter](https://mobile.twitter.com/hasanrakib07)
@@ -11,9 +12,9 @@
 ### My Stacks
 #### Languages: C | C++ | Python | Javascript
 
-#### Frontend: HTML | CSS | React | Next JS
+#### Frontend: HTML | CSS | Javascript | React | Redux | Next JS
 
-#### Backend: Node | MongoDB | Express
+#### Backend: Node Js | MongoDB | Express
 
 #### Others: Git | Github | Latex
 
