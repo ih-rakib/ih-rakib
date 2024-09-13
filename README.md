@@ -1,4 +1,6 @@
 # Ikramul Hasan Rakib
+self-taught programmer!
+
 
 ## Find Me Here
 - 🌐 [Email](mailto:hasanrakib3590@gmail.com)
