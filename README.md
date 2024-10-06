@@ -35,7 +35,7 @@ self-taught programmer!
 
 - E-Commerce: [View Code](https://github.com/ih-rakib/E-Commerce)
 
-- News Today: [Live Link](https://news-today-six.vercel.app/) [View Code](https://github.com/ih-rakib/News-Today)
+- News Today: [Live Link](https://news-today-six.vercel.app/) | [View Code](https://github.com/ih-rakib/News-Today)
 
 - MERN CRUD Application: [View Code](https://github.com/ih-rakib/mern-CRUD-application)
 
