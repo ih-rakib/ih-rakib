@@ -4,8 +4,9 @@ self-taught programmer!
 
 ## Find Me Here
 - 🌐 [Email](mailto:hasanrakib3590@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ikramul-hasan-rakib)
+- ❄️ [LinkedIn](https://www.linkedin.com/in/ikramul-hasan-rakib)
 - 📱 [WhatsApp](https://wa.me/1857668385)
+- 🦋 [YouTube](https://www.youtube.com/@ihrakib07)
 - 🐦 [Twitter](https://mobile.twitter.com/hasanrakib07)
 
 ### My Github Stats
