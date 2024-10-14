@@ -17,7 +17,9 @@ self-taught programmer!
 
 #### Frontend: HTML | CSS | Javascript | React | Redux | Next JS
 
-#### Backend: Node Js | MongoDB | Express
+#### Backend: Node Js | Express
+
+#### Database: SQL | MongoDB
 
 #### Others: Git | Github | Latex
 
@@ -31,3 +33,4 @@ self-taught programmer!
 |---------|------|
 | Projects | [See All of my Projects](https://github.com/ih-rakib/Profile/blob/master/Projects/Readme.md) |
 | Learning | [Explore Learning Topics](https://github.com/ih-rakib/Profile/blob/master/Learning/Readme.md) | 
+| Contact | [Contact Me Here](https://github.com/ih-rakib/Profile/blob/master/Contact/Readme.md) | 
