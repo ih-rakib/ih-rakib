@@ -9,6 +9,8 @@ self-taught programmer!
 - 🦋 [YouTube](https://www.youtube.com/@ihrakib07)
 - 🐦 [Twitter](https://mobile.twitter.com/hasanrakib07)
 
+***
+
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ih-rakib&show_icons=true&count_private=true&theme=dark" alt="ih-rakib" />
 
@@ -23,9 +25,12 @@ self-taught programmer!
 
 #### Others: Git | Github | Latex
 
+***
+
 ### My Handles
  [Leetcode](https://leetcode.com/kuhelica/) | [Codeforces](https://codeforces.com/profile/Rakib03) | [HackerRank](https://www.hackerrank.com/profile/hasanrakib3590)
 
+***
 
 # Profile
 
