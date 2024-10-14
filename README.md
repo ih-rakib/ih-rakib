@@ -27,10 +27,12 @@ self-taught programmer!
 
 ***
 
+
 ### My Handles
- [Leetcode](https://leetcode.com/kuhelica/) | [Codeforces](https://codeforces.com/profile/Rakib03) | [HackerRank](https://www.hackerrank.com/profile/hasanrakib3590)
+ [Leetcode](https://leetcode.com/kuhelica/)  |  [Codeforces](https://codeforces.com/profile/Rakib03)  |  [HackerRank](https://www.hackerrank.com/profile/hasanrakib3590)
 
 ***
+
 
 # Profile
 
@@ -39,3 +41,5 @@ self-taught programmer!
 | Projects | [See All of my Projects](https://github.com/ih-rakib/Profile/blob/master/Projects/Readme.md) |
 | Learning | [Explore Learning Topics](https://github.com/ih-rakib/Profile/blob/master/Learning/Readme.md) | 
 | Contact | [Contact Me Here](https://github.com/ih-rakib/Profile/blob/master/Contact/Readme.md) | 
+
+***
