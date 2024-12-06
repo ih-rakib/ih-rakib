@@ -29,9 +29,9 @@ self-taught programmer!
 
 
 ### My Handles
- [Leetcode](https://leetcode.com/kuhelica/)
- [Codeforces](https://codeforces.com/profile/Rakib03) 
- [HackerRank](https://www.hackerrank.com/profile/hasanrakib3590)
+ - [Leetcode](https://leetcode.com/kuhelica/)
+ - [Codeforces](https://codeforces.com/profile/Rakib03) 
+ - [HackerRank](https://www.hackerrank.com/profile/hasanrakib3590)
 
 ***
 
