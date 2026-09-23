@@ -1,11 +1,11 @@
-# [Ikramul Hasan Rakib](https://portfolio-ikramul-hasan-rakibs-projects.vercel.app/)
+# [Ikramul Hasan Rakib](https://rakib-orion.vercel.app/)
 self-taught programmer!
 
 ## Find Me Here
-- ↘️ [Portfolio](https://portfolio-ikramul-hasan-rakibs-projects.vercel.app/)
+- ↘️ [Portfolio](https://rakib-orion.vercel.app/)
 - 🌐 [Email](mailto:hasanrakib3590@gmail.com)
 - ❄️ [LinkedIn](https://www.linkedin.com/in/ikramul-hasan-rakib)
-- 📱 [WhatsApp](https://wa.me/1857668385)
+- 📱 [WhatsApp](https://wa.me/1568041680)
 - 🦋 [YouTube](https://www.youtube.com/@ihrakib07)
 - 🐦 [Twitter](https://mobile.twitter.com/hasanrakib07)
 
